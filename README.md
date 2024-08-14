@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
-<div align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"width="900"></div>
+<div align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"width="500"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
-
-/*<div align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"width="900"></div>
- </div>*/
-
-
-
-<br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinsha07&label=Profile%20views&color=0e75b6&style=flat" alt="prinsha07" /> </p>
 
