@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
 
-<div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
+<div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw1r3Pb9jTLPGTeMw-ry4KBK&ust=1723742546401000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj778jC__SHAxW-UWwGHXZoAdIQjRx6BAgAEBc"width="900"></div>
  </div>
 
 
