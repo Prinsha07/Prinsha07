@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
-<div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
+<div align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"width="900"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
 
-<div align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"width="900"></div>
- </div>
+/*<div align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"width="900"></div>
+ </div>*/
 
 
 
