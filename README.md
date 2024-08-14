@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
 <div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
-<img align="right" width="400" height="300" Alt="coding" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fhd%2F06f21a161921919.63cd7887d0a70.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&docid=t8xwAZxnLp10NM&tbnid=fxK5tONPokeGrM&vet=12ahUKEwjbsoby_vSHAxWDyzgGHVafB2oQM3oECHwQAA..i&w=1000&h=756&hcb=2&ved=2ahUKEwjbsoby_vSHAxWDyzgGHVafB2oQM3oECHwQAA">
+<img src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fhd%2F06f21a161921919.63cd7887d0a70.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&docid=t8xwAZxnLp10NM&tbnid=fxK5tONPokeGrM&vet=12ahUKEwjbsoby_vSHAxWDyzgGHVafB2oQM3oECHwQAA..i&w=1000&h=756&hcb=2&ved=2ahUKEwjbsoby_vSHAxWDyzgGHVafB2oQM3oECHwQAA" align="right" width="400" height="300" Alt="coding">
 
 
 
