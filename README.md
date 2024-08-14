@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
 <div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
-<img src="https://images.app.goo.gl/TAC42KyVyxbhFbNs8" align="right" width="400" height="300" Alt="coding">
+
+<div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
+ </div>
 
 
 
