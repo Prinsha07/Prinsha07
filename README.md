@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Prince Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" src="[https://images.app.goo.gl/duSfFf52vDpwza9x5](https://images.app.goo.gl/duSfFf52vDpwza9x5)" width="400">
+<h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
+<div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
+<h3 align="center">A passionate full stack web developer from India.</h3>
+<img align="right" width="400" height="300" Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843">
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw25bWSnzYv7Enno2ZTmpk2C&ust=1723740219902000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi_9_D29IcDFQAAAAAdAAAAABAE" alt="prinsha07" /> </p>
+
+<br><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prinsha07&label=Profile%20views&color=0e75b6&style=flat" alt="prinsha07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinsha07" alt="prinsha07" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science in Python**
-
 - 📫 How to reach me **prince809135@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
