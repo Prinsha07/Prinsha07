@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinsha07&label=Profile%20views&color=0e75b6&style=flat" alt="prinsha07" /> </p>
 
