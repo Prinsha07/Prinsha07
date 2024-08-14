@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinsha07&label=Profile%20views&color=0e75b6&style=flat" alt="prinsha07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinsha07" alt="prinsha07" /></a> </p>
+
+- 🌱 I’m currently learning **Data Science in Python**
 - 📫 How to reach me **prince809135@gmail.com**
 <br><br><br>
 
