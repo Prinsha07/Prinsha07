@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif" width="400">
+<img align="right" alt="coding" src="[https://www.behance.net/gallery/161921919/Portrait-animated-gif](https://images.app.goo.gl/duSfFf52vDpwza9x5)" width="400">
 
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw25bWSnzYv7Enno2ZTmpk2C&ust=1723740219902000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi_9_D29IcDFQAAAAAdAAAAABAE" alt="prinsha07" /> </p>
 
