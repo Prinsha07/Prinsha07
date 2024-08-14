@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prinsha07&label=Profile%20views&color=0e75b6&style=flat" alt="prinsha07" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw25bWSnzYv7Enno2ZTmpk2C&ust=1723740219902000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi_9_D29IcDFQAAAAAdAAAAABAE" alt="prinsha07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinsha07" alt="prinsha07" /></a> </p>
 
