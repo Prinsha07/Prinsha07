@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinsha07" alt="prinsha07" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science in Python**
+- 🌱 I’m currently learning **Data Science using Python**
 - 📫 How to reach me **prince809135@gmail.com**
 <br><br><br>
 
